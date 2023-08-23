@@ -1,3 +1,3 @@
-## Toggle Box React App
+## Toggle Box Application | React
 
 🌎 Website: https://togglebox.netlify.app/
